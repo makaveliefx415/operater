@@ -48,7 +48,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Visit Our Office",
-      details: ["Dar es Salaam, Tanzania", "Morogoro Road, Plot 123", "Near National Museum"]
+      details: ["Arusha, Tanzania", "Morogoro Road, Plot 123", "Near National Museum"]
     },
     {
       icon: <Phone className="w-6 h-6" />,
