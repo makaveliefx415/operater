@@ -56,7 +56,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-primary mt-0.5" />
-                <span className="text-gray-300">Dar es Salaam, Tanzania</span>
+                <span className="text-gray-300">Arusha, Tanzania</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary" />
@@ -72,7 +72,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 Tanzania Explorer. All rights reserved.  for Tanzania.
+            © 2025 Tanzania Explorer. All rights reserved.  for Tanzania.
           </p>
         </div>
       </div>
