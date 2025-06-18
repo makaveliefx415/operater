@@ -58,7 +58,7 @@ function About() {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-gray-50 text-[12px] md:text-[23px] ">
       {/* Hero Section */}
       <div className="relative h-96  bg-[url('https://www.easytravel.co.tz/wp-content/uploads/2020/07/client-practising-maasai-culture.jpg')] bg-cover bg-center flex items-center justify-center">
         <div className="absolute inset-0 bg-black/30"></div>
@@ -68,10 +68,10 @@ function About() {
         </div>
       </div>
 
-      <div className="container mx-auto px-4 py-16">
+      <div className="container mx-auto px-4 py-16 text-[12px] md:text-[23px] ">
         {/* Our Story Section */}
         <section className="mb-30">
-          <div className="grid grid-cols-2 lg:grid-cols-2 gap-12 items-center">
+          <div className="grid grid-col-1 md:grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
               <h2 className="text-5xl font-bold mb-20">Our Story</h2>
               <p className="text-gray-600 mb-6">
