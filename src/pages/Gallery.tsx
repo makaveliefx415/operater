@@ -21,7 +21,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "Majestic giraffes roaming the endless plains of Serengeti",
       photographer: "Safari Explorer",
-      date: "2024-01-15"
+      date: "2025-01-15"
     },
     {
       id: 2,
@@ -57,7 +57,7 @@ const Gallery = () => {
       category: "Landscapes",
       description: "Golden sunset over the vast Serengeti plains",
       photographer: "Landscape Artist",
-      date: "2024-05-12"
+      date: "2025-05-12"
     },
     {
       id: 6,
@@ -66,7 +66,7 @@ const Gallery = () => {
       category: "Culture",
       description: "Historic buildings showcasing Swahili and Arabic architecture",
       photographer: "Heritage Photographer",
-      date: "2024-06-18"
+      date: "2025-06-18"
     },
     {
       id: 7,
@@ -75,7 +75,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "African elephants gathering at a watering hole",
       photographer: "Wildlife Expert",
-      date: "2024-07-22"
+      date: "2025-07-22"
     },
     {
       id: 8,
@@ -84,7 +84,7 @@ const Gallery = () => {
       category: "Landscapes",
       description: "The world's largest unbroken caldera teeming with wildlife",
       photographer: "Conservation Photographer",
-      date: "2024-08-14"
+      date: "2025-08-14"
     },
     {
       id: 9,
@@ -93,7 +93,7 @@ const Gallery = () => {
       category: "Culture",
       description: "Traditional Maasai warrior in ceremonial dress",
       photographer: "Cultural Documentarian",
-      date: "2024-09-08"
+      date: "2025-09-08"
     },
     {
       id: 10,
@@ -102,7 +102,7 @@ const Gallery = () => {
       category: "Culture",
       description: "Vibrant Maasai dance showcasing cultural heritage",
       photographer: "Cultural Photographer",
-      date: "2024-10-01"
+      date: "2025-10-01"
     },
     {
       id: 11,
@@ -111,7 +111,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A herd of giraffes grazing in the savannah",
       photographer: "Wildlife Photographer",
-      date: "2024-10-15"
+      date: "2025-10-15"
     },
     {
       id: 12,
@@ -120,7 +120,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "An African elephant silhouetted against a stunning sunset",
       photographer: "Brian Photographer",
-      date: "2024-10-01"
+      date: "2025-10-01"
     },
     {
       id: 13,
@@ -129,7 +129,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A family of cheetahs resting in the shade",
       photographer: "Wildlife Enthusiast",
-      date: "2024-10-20"
+      date: "2025-10-20"
     },
     {
       id: 14,
@@ -138,7 +138,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "The Big Five of Africa - lion, leopard, rhinoceros, elephant, and Cape buffalo",
       photographer: "Safari Guide",
-      date: "2024-11-05"
+      date: "2025-11-05"
     },
     {
       id: 15,
@@ -147,7 +147,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A pride of lions with a cub",
       photographer: "Wildlife Photographer",
-      date: "2024-11-20"
+      date: "2025-11-20"
     },
     {
       id: 16,
@@ -156,7 +156,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A flock of flamingos wading in the shallow waters of Lake Manyara",
       photographer: "Birdwatching Expert",
-      date: "2024-12-01"
+      date: "2025-12-01"
     },
     {
       id: 17,
@@ -165,7 +165,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A leopard drinking water at a waterhole in the wild",
       photographer: "Wildlife Photographer",
-      date: "2024-12-15"
+      date: "2025-12-15"
     },
     {
       id: 18,
@@ -174,7 +174,7 @@ const Gallery = () => {
       category: "Wildlife",
       description: "A safari car waiting for elephants to cross the road",
       photographer: "Safari Guide",
-      date: "2024-12-30"
+      date: "2025-12-30"
     },
     {
       id: 19,
