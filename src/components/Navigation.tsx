@@ -1,7 +1,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Mountain, Contact, Calendar } from 'lucide-react';
+import { Menu, X, Mountain,  Calendar, Contact } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 
 const Navigation = () => {
@@ -58,12 +58,6 @@ const Navigation = () => {
                   Book Now
                 </Button>
               </Link>
-              <Link to="/contact">
-                <Button size="sm" className="bg-primary hover:bg-primary/90">
-                  <Contact className="w-4 h-4 mr-2" />
-                  Contact
-                </Button>
-              </Link>
             </div>
 
             {/* Mobile menu button */}
@@ -101,12 +95,7 @@ const Navigation = () => {
                     Book Now
                   </Button>
                 </Link>
-                <Link to="/contact" onClick={() => setIsOpen(false)}>
-                  <Button size="sm" className="w-full mt-2 bg-primary hover:bg-primary/90">
-                    <Contact className="w-4 h-4 mr-2" />
-                    Contact Us
-                  </Button>
-                </Link>
+
               </div>
             </div>
           )}
