@@ -1,8 +1,9 @@
 
 import React, { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router-dom';
-import { Menu, X, Mountain,  Calendar, Contact } from 'lucide-react';
+import { Menu, X, Mountain,  Calendar, Contact, RouteOffIcon, RouterIcon, IceCreamBowl, IceCreamBowlIcon, PhoneCallIcon, LogInIcon, CarIcon, CarFrontIcon, AngryIcon, MountainSnow } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import Safaris from '@/pages/Safaris';
 
 const Navigation = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -30,13 +31,14 @@ const Navigation = () => {
   return (
     <>
       <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? 'bg-white/95 backdrop-blur-md shadow-lg' : 'bg-transparent'
+        isScrolled ? 'bg-transparent backdrop-blur-md shadow-lg' : 'bg-transparent'
       }`}>
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16">
             <Link to="/" className="flex items-center space-x-2">
-              <Mountain className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold text-primary">Tanzania Explorer</span>
+              <MountainSnow className="h-8 w-8 text-zinc-500" />
+              <span className="text-xl font-bold text-primary">Tanzania </span>
+              <span className="text-xl font-bold text-zinc-500">Safari</span>
             </Link>
 
             {/* Desktop Navigation */}
