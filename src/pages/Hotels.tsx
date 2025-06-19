@@ -79,6 +79,78 @@ const Hotels = () => {
       description: "Modern city hotel perfect for business travelers and city explorers.",
       amenities: ["Free WiFi", "Restaurant", "Business center", "Airport transfer", "Laundry"],
       features: ["City center", "Business facilities", "Local tours", "Ferry access"]
+    },
+    {
+      id: "7",
+      name: "Lake Manyara Tree Lodge",
+      category: "Luxury",
+      image: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/2e/63/19/andbeyond-lake-manyara.jpg?w=900&h=-1&s=1",
+      location: "Lake Manyara National Park",
+      rating: 4.8,
+      price: "$600/night",
+      description: "Exclusive tree lodge offering a unique safari experience in Lake Manyara.",
+      amenities: ["Free WiFi", "Restaurant", "Game drives", "Spa", "Nature walks"],
+      features: ["Treehouse rooms", "Wildlife viewing", "Bird watching", "Cultural experiences"]
+    },
+    {
+      id: "8",
+      name: "Selous Safari Camp",
+      category: "Budget",
+      image: "https://africa-safari.com/wp-content/uploads/as-maasai-boma.jpg",
+      location: "Selous Game Reserve",
+      rating: 4.0,
+      price: "$150/night",
+      description: "Affordable safari camp in the heart of Selous Game Reserve.",
+      amenities: ["Free WiFi", "Restaurant", "Game drives", "Camping"],
+      features: ["Budget-friendly", "Wildlife viewing", "Guided tours", "Cultural visits"]
+    },
+    {
+      id: "9",
+      name: "Moshi City Hotel",
+      category: "Budget",
+      image: "https://pix10.agoda.net/hotelImages/551/5514141/5514141_18081021200067413770.jpg?ca=0&ce=1&s=702x392",
+      location: "Moshi",
+      rating: 3.8,
+      price: "$50/night",
+      description: "Simple and affordable hotel in Moshi, ideal for budget travelers.",
+      amenities: ["Free WiFi", "Restaurant", "Laundry", "Airport transfer"],
+      features: ["City center", "Local tours", "Cultural experiences", "Budget-friendly"]
+    },
+    {
+      id: "10",
+      name: "Zanzibar Budget Inn",
+      category: "Budget",
+      image: "https://media-cdn.tripadvisor.com/media/photo-s/08/78/f3/20/my-blue-hotel-by-night.jpg",
+      location: "Stone Town, Zanzibar",
+      rating: 3.5,
+      price: "$40/night",
+      description: "Affordable inn located in the heart of Stone Town, Zanzibar.",
+      amenities: ["Free WiFi", "Restaurant", "Laundry", "Airport transfer"],
+      features: ["Cultural experiences", "Historical tours", "Local markets", "Budget-friendly"]
+    },
+    {
+      id: "11",
+      name: "Ngorongoro Wildlife Lodge",
+      category: "Mid-range",
+      image: "https://media.istockphoto.com/id/1143754364/photo/entrance-to-the-luxury-ngorongoro-wildlife-lodge-viewed-at-sunset.jpg?s=612x612&w=0&k=20&c=QgK8jduEqC_tEzv2itauV-x_3LpjJTxvNen1un8oa5s=",
+      location: "Ngorongoro Conservation Area",
+      rating: 4.6,
+      price: "$220/night",
+      description: "Comfortable lodge with stunning views of the Ngorongoro Crater.",
+      amenities: ["Free WiFi", "Restaurant", "Game drives", "Cultural visits"],
+      features: ["Crater views", "Wildlife viewing", "Maasai cultural center", "Guided tours"]
+    },
+    {
+      id: "12",
+      name: "Tarangire Safari Lodge",
+      category: "Mid-range",
+      image: "https://www.ndoto-safari.com/pics/hotels/Ngorongoro_Wildlife_Lodge/s3.jpg",
+      location: "Tarangire National Park",
+      rating: 4.4,
+      price: "$180/night",
+      description: "Charming lodge located in the heart of Tarangire National Park.",
+      amenities: ["Free WiFi", "Restaurant", "Game drives", "Nature walks"],
+      features: ["Wildlife viewing", "Bird watching", "Cultural experiences", "Guided tours"]
     }
   ];
 
